@@ -25,5 +25,3 @@ A beautiful and modern landing page inspired by the colors and wonders of the ga
 
 ## License
 This project is open source and free to use for learning and personal projects.
-  git config --global user.email "danish.muhammad.riaz@gmail.com"
-  git config --global user.name "DanishCodex"
